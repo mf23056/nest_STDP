@@ -2,6 +2,6 @@
 
 # パッケージ
 nest - 3.7.0 <br>
-tensorflow
-numpy
-matplotlib
+tensorflow <br>
+numpy <br>
+matplotlib <br>
